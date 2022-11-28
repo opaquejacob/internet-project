@@ -1,0 +1,25 @@
+* {
+  margin: 0;
+  padding: 0;
+  line-height: 1;
+  box-sizing: border-box;
+}
+
+html,
+body,
+#__next {
+  height: 100%;
+}
+
+html {
+  background-color: #1a1a1a;
+  color: #ffffff;
+}
+
+#__next {
+  display: flex;
+}
+
+img {
+  object-fit: contain;
+}
